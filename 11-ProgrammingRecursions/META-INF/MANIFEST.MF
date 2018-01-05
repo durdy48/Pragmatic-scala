@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Scala-Compiler-Version: 2.12.2
+Main-Class: Main
+
